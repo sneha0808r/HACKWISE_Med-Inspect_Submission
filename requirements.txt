@@ -1,0 +1,11 @@
+streamlit
+flask
+requests
+playsound==1.2.2
+pydub
+ffmpeg-python
+opencv-python
+mediapipe
+speechrecognition
+gtts
+youtube-search-python
